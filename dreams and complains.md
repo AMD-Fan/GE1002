@@ -86,30 +86,94 @@ complains:
 From Li Ruiqian and his questionnaire
 
 Dreams: 
+
 	1.1 I want to have enough sleep every day
+	
 	1.2 I want less time waiting in canteen
+	
 	1.3 I want to control the light and air conditioner on my bed
+	
 	1.4 I want to go gym every day
+	
 	1.5 I want to have higher GPA
+	
 	2.1 In the school, I will get payback as long as I study hard
+	
 	2.2 Every student can get his/her research in the school years
+	
 	3.1 Never get up
+	
 	3.2 Never attend class in 8 a.m.
+	
 	4.1 Have a girlfriend
+	
 	4.2 Be excellent undergraduate
+	
 	5.1 Cafeteria’s food be tasty and cheap
+	
 	5.2 Have coffee corner in library with tasty coffee
+	
 Complaints:
+
 	1.1 Wake up early kills me
+	
 	1.2 Too much work and homework to do
+	
 	1.3 Always forget the umbrella
+	
 	1.4 Too hot on the bed and too cold under
+	
 	1.5 Refuse classification need lots of time
+	
 	2.1 The food in the school cafeteria is getting worse
+	
 	2.2 The infrastructure in the school dormitory becomes old
+	
 	3.1 Roommate snore at sleep
+	
 	3.2 Roommate make a loud noise at dinner
+	
 	4.1 Cafeteria’s food is not tasty
+	
 	4.2 Life expense is too high
+	
 	5.1 Somebody always wash underwear with public washing machine
+	
 	5.2 Too many people in the school
+
+
+From Xie Hongyi and his questionnaire
+
+dream：
+
+money without work
+
+
+robot can do everything for me
+
+free（eternal） energy
+
+live in computer
+
+control every cell in my body
+
+no more tired
+
+fly
+
+
+dslike：
+
+data isolated island
+
+low speed or no Internet
+
+low resolving power
+
+fan noisy 
+
+slow logistics transportation
+
+Canteen with few dishes
+
+device broken
