@@ -1,0 +1,70 @@
+<?xml version="pro 1.0"?>
+<!--
+Copyright 2016 shining 3D-tech Inc.
+
+Unless required by applicable law or agreed to in writing, software distributed under the License
+ is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or 
+implied. See the License for the specific language governing permissions and limitations under the
+ License. 
+-->
+<PROJECT>
+<SYSTEM>
+<NAME>mouse.fix_prj</NAME>
+<DIS>0.200000</DIS>
+<TEX>0</TEX>
+<REF>0</REF>
+</SYSTEM>
+<SCENE>
+<PATH>C:/Users/lrq/Desktop/mouse/</PATH>
+<DATA>
+<MESH>
+<NAME>mouse_scan_8</NAME>
+</MESH>
+<MESH>
+<NAME>mouse_scan_9</NAME>
+</MESH>
+<MESH>
+<NAME>mouse_scan_10</NAME>
+</MESH>
+<MESH>
+<NAME>mouse_scan_11</NAME>
+</MESH>
+<MESH>
+<NAME>mouse_scan_12</NAME>
+</MESH>
+<MESH>
+<NAME>mouse_scan_13</NAME>
+</MESH>
+<MESH>
+<NAME>mouse_scan_14</NAME>
+</MESH>
+<MESH>
+<NAME>mouse_scan_15</NAME>
+</MESH>
+<MESH>
+<NAME>mouse_scan_16</NAME>
+</MESH>
+<MESH>
+<NAME>mouse_scan_17</NAME>
+</MESH>
+<MESH>
+<NAME>mouse_scan_18</NAME>
+</MESH>
+<MESH>
+<NAME>mouse_scan_19</NAME>
+</MESH>
+<MESH>
+<NAME>mouse_scan_20</NAME>
+</MESH>
+<MESH>
+<NAME>mouse_scan_21</NAME>
+</MESH>
+<MESH>
+<NAME>mouse_scan_22</NAME>
+</MESH>
+<MESH>
+<NAME>mouse_scan_23</NAME>
+</MESH>
+</DATA>
+</SCENE>
+</PROJECT>
